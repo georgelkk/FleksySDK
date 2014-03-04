@@ -31,3 +31,4 @@ Please see the [Wiki](https://github.com/Fleksy/FleksySDK/wiki) and use the [Iss
 ## _Happy Typing!_
 ![Fleksy SDK Keyboard Specs](http://fleksy.com/2014/wp-content/uploads/2014/02/Github-Banner-Footer.png)
 ©2013-2014 Fleksy, v1.0
+©2013-2014 Fleksy, v1.1
