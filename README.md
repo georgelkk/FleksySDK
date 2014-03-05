@@ -24,6 +24,7 @@ Optionally, implement this in your UIApplicationDelegate and return your affilia
 - App Store is unavailable under the Simulator, so you should test Fleksy on a device.
 - If you are using a custom view that is not extending UITextField/UITextView, implement this in your UIApplicationDelegate: `- (BOOL) fleksyShouldEnableCustomViewSupport;`
 - For more information about affiliates, see the [Apple Affiliate Program](https://www.apple.com/itunes/affiliates/)
+- We will feature your app on [our website and inside the Fleksy app](http://fleksy.com/appswithfleksy/) as long as you mention "Fleksy" in your App Store listing.
 
 ## Questions?
 Please see the [Wiki](https://github.com/Fleksy/FleksySDK/wiki) and use the [Issues](https://github.com/Fleksy/FleksySDK/issues) page for making feature requests and reporting issues.
