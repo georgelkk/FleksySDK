@@ -26,10 +26,10 @@
 			<key>CFBundleTypeRole</key>
 			<string>Editor</string>
 			<key>CFBundleURLName</key>
-			<string>fleksyKBClient</string>
+			<string>fleksy</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>fleksyKBClient-com.test.${PRODUCT_NAME:rfc1034identifier}</string>
+				<string>fleksy-com.test.${PRODUCT_NAME:rfc1034identifier}</string>
 			</array>
 		</dict>
 	</array>

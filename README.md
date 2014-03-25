@@ -8,7 +8,7 @@ Give your users the choice of an alternative keyboard for the _first time ever_ 
 
 2. Set the following flags under “Other Linker Flags”: `-lc++` and `-ObjC`
 
-3. Add a custom URL Type under the “Info” tab in your project: `fleksyKBClient-YOUR_BUNDLE_ID`
+3. Add a custom URL Type under the “Info” tab in your project: `fleksy-YOUR_BUNDLE_ID`
 
 **That’s it!** _(no code is required)_
 
@@ -22,7 +22,7 @@ Optionally, implement this in your UIApplicationDelegate and return your affilia
 ## Notes
 - If the Fleksy app is not installed, the user will be prompted to install it from the App Store.
 - App Store is unavailable under the Simulator, so you should test Fleksy on a device.
-- If you are using a custom view that is not extending UITextField/UITextView, implement this in your UIApplicationDelegate: `- (BOOL) fleksyShouldEnableCustomViewSupport;`
+- The following is no longer required: UIApplicationDelegate: `- (BOOL) fleksyShouldEnableCustomViewSupport;`
 - For more information about affiliates, see the [Apple Affiliate Program](https://www.apple.com/itunes/affiliates/)
 - We will feature your app on [our website and inside the Fleksy app](http://fleksy.com/appswithfleksy/) as long as you mention "Fleksy" in your App Store listing. Add "Fleksy" as an App Store keyword to further increase discoverability.
 
@@ -33,3 +33,4 @@ Please see the [Wiki](https://github.com/Fleksy/FleksySDK/wiki) and use the [Iss
 ![Fleksy SDK Keyboard Specs](http://fleksy.com/2014/wp-content/uploads/2014/02/Github-Banner-Footer.png)
 ©2013-2014 Fleksy, v1.0
 ©2013-2014 Fleksy, v1.1
+©2013-2014 Fleksy, v2.0
