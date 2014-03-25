@@ -1,4 +1,4 @@
-v2.0: Requires UPDATED version of Fleksy app, link included in README.
+v2.0: Requires UPDATED version of Fleksy app, available on AppStore
 
 - More languages supported
 - UIWebView support
