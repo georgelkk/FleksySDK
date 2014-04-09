@@ -1,3 +1,8 @@
+v2.0.2: Requires UPDATED version of Fleksy app, available on AppStore
+
+- Improve handling of left shiftKey.
+- Bug fixes
+
 v2.0: Requires UPDATED version of Fleksy app, available on AppStore
 
 - More languages supported
