@@ -10,6 +10,8 @@ Give your users the choice of an alternative keyboard for the _first time ever_ 
 
 3. Add a custom URL Type under the “Info” tab in your project: `fleksy-YOUR_BUNDLE_ID`
 
+4. (Optional) Mention "Fleksy" in your app description and we'll promote your app on our [website](http://fleksy.com/appswithfleksy/) and in the Fleksy app
+
 **That’s it!** _(no code is required)_
 
 Users can now switch between Fleksy and the iOS keyboard by invoking the Edit menu on any input field (long tap or double tap).
